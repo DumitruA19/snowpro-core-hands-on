@@ -1,0 +1,5 @@
+{"event_id":"e1","customer_id":1,"event_type":"page_view","event_ts":"2025-08-01T10:10:00","page":"home","device":"mobile","session_id":"s1","product_id":null,"referrer":"google"}
+{"event_id":"e2","customer_id":1,"event_type":"product_view","event_ts":"2025-08-01T10:12:00","page":"product","device":"mobile","session_id":"s1","product_id":101,"referrer":"internal"}
+{"event_id":"e3","customer_id":2,"event_type":"page_view","event_ts":"2025-08-01T10:50:00","page":"home","device":"desktop","session_id":"s2","product_id":null,"referrer":"direct"}
+{"event_id":"e4","customer_id":2,"event_type":"add_to_cart","event_ts":"2025-08-01T10:56:00","page":"cart","device":"desktop","session_id":"s2","product_id":103,"referrer":"internal"}
+{"event_id":"e5","customer_id":5,"event_type":"checkout","event_ts":"2025-08-03T16:05:00","page":"checkout","device":"tablet","session_id":"s3","product_id":101,"referrer":"email_campaign"}

@@ -1,0 +1,6 @@
+product_id,product_name,category,brand,unit_price,is_active
+101,Wireless Mouse,Accessories,LogiTech,25.99,TRUE
+102,Mechanical Keyboard,Accessories,KeyPro,79.50,TRUE
+103,27 Inch Monitor,Monitors,ViewMax,229.99,TRUE
+104,Laptop Stand,Accessories,DeskFlow,34.90,TRUE
+105,USB-C Docking Station,Peripherals,PortHub,119.00,FALSE

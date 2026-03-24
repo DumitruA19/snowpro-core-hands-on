@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,city,country,signup_date,status
+1,Emma,Stone,emma.stone@example.com,Bucharest,Romania,2024-01-10,ACTIVE
+2,Liam,Carter,liam.carter@example.com,Cluj-Napoca,Romania,2024-02-14,ACTIVE
+3,Olivia,Reed,olivia.reed@example.com,Iasi,Romania,2024-03-01,INACTIVE
+4,Noah,Turner,noah.turner@example.com,Timisoara,Romania,2024-03-20,ACTIVE
+5,Ava,Mitchell,ava.mitchell@example.com,Constanta,Romania,2024-04-05,ACTIVE
