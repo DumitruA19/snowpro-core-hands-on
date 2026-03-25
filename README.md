@@ -45,3 +45,12 @@ The project includes a dedicated performance phase that demonstrates:
 - cost-conscious warehouse configuration with auto-suspend and auto-resume
 
 A synthetic benchmark table was created from the curated layer to make performance observations more visible in a trial environment.
+
+## Data Protection and Sharing
+The project includes a protection-focused phase demonstrating:
+- Time Travel recovery after an intentional delete
+- zero-copy table cloning
+- schema cloning for isolated development/testing
+- secure view creation for controlled analytical consumption
+
+This phase shows how Snowflake supports both recoverability and governed data access in day-to-day engineering workflows.
