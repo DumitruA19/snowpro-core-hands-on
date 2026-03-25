@@ -36,3 +36,12 @@ The project includes:
 
 ## Status
 Phase 1 in progress: foundation setup
+
+## Performance and Cost Review
+The project includes a dedicated performance phase that demonstrates:
+- warehouse sizing comparison (`XSMALL` vs `SMALL`)
+- result-cache behavior on repeated queries
+- query-history analysis using Snowflake metadata
+- cost-conscious warehouse configuration with auto-suspend and auto-resume
+
+A synthetic benchmark table was created from the curated layer to make performance observations more visible in a trial environment.
